@@ -1,7 +1,6 @@
-# LatentGauge
+# LatentGauge: Planning-Geometry Attacks in a Measure-Preserving Blind Spot — interactive story
 
-Public interactive release of **LeWorldModel → LatentGauge Extended V2.21**.
+A scroll-driven explainer, LeWorldModel → LatentGauge: world models, JEPA and SIGReg, LeWorldModel and temporal straightening, then the LatentGauge attack, its displacement budget and exact negative controls.
 
-The published page exposes the canonical V2.21 experience only and runs with the full animation path enabled.
-
-Live site: <https://crcr0.github.io/LatentGauge/>
+- Interactive story: <https://crcr0.github.io/LatentGauge/>
+- Project page (paper summary, witness lab, poster, extended abstract): <https://crcr0.github.io/LatentGauge-Homepage/>
